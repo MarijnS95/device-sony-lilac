@@ -2844,6 +2844,10 @@
         <ctl name="RX HPH Mode" value="CLS_H_HIFI" />
     </path>
 
+    <path name="voice-headset">
+        <path name="voice-headphones" />
+    </path>
+
     <path name="voice-line">
         <path name="voice-headphones" />
     </path>
@@ -2903,6 +2907,10 @@
     </path>
 
     <path name="afe-proxy">
+    </path>
+
+    <path name="voice-rec-mic">
+        <path name="handset-mic" />
     </path>
 
     <path name="anc-headphones">
