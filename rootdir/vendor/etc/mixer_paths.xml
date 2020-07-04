@@ -2247,9 +2247,6 @@
     <path name="speaker">
         <ctl name="COMP7 Switch" value="1" />
         <ctl name="COMP8 Switch" value="1" />
-        <ctl name="AIF4_VI Mixer SPKR_VI_1" value="1" />
-        <ctl name="AIF4_VI Mixer SPKR_VI_2" value="1" />
-        <ctl name="SLIM_4_TX Format" value="PACKED_16B" />
         <ctl name="SLIM RX0 MUX" value="AIF_MIX1_PB" />
         <ctl name="SLIM RX1 MUX" value="AIF_MIX1_PB" />
         <ctl name="SLIM_0_RX Channels" value="Two" />
@@ -2263,9 +2260,6 @@
         <ctl name="SpkrRight VISENSE Switch" value="1" />
         <ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
         <ctl name="SpkrRight SWR DAC_Port Switch" value="1" />
-        <ctl name="VI_FEED_TX Channels" value="Two" />
-        <ctl name="SLIM0_RX_VI_FB_LCH_MUX"  value="SLIM4_TX" />
-        <ctl name="SLIM0_RX_VI_FB_RCH_MUX"  value="SLIM4_TX" />
     </path>
 
     <path name="speaker-reverse">
